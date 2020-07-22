@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6495ed?style=flat-square&logo=Linkedin&logoColor=6495ed&labelColor=FFFFFF&link=https://br.linkedin.com/in/thuan-matheus-0a5644171)](https://br.linkedin.com/in/thuan-matheus-0a5644171)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&&logo=twitter&logoColor=1ca0f1&labelColor=FFFFFF&link=https://twitter.com/thuan_matheus)](https://twitter.com/thuan_matheus)
 
-Uma pessoa que gosta muito de Front-End e de compartilhar conhecimento.Sempre busca do próximo desafio.
+Uma pessoa que gosta muito de Front-End e de compartilhar conhecimento.Sempre em busca do próximo desafio.
 
 
 ## ✨ Veja alguns dos meus projetos:
