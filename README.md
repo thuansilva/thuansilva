@@ -27,7 +27,7 @@ Uma pessoa que gosta muito de Front-End e de compartilhar conhecimento.Sempre em
 
 ## ✨ Veja alguns dos meus projetos:
 
-- [🎥🦸 Fausthanos](https://github.com/Rychillie/PicPay-Clone): 🎥🦸 Tem como objetivo apresentar o React-Native na II Semana de Informatica do Instituto de Ciências Exatas e Tecnologia-UFAM
+- [🎥🦸 Fausthanos](https://github.com/thuansilva/Marvel): 🎥🦸 Tem como objetivo apresentar o React-Native na II Semana de Informatica do Instituto de Ciências Exatas e Tecnologia-UFAM
 
 
 ## 🌱 Atualmente estou estudando:
