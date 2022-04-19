@@ -16,21 +16,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  🌌 Thuan Silva
+#  🌌 Hi!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=000000&labelColor=FFFFFF&link=https://github.com/thuansilva)](https://github.com/thuansilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6495ed?style=flat-square&logo=Linkedin&logoColor=6495ed&labelColor=FFFFFF&link=https://br.linkedin.com/in/thuan-matheus-0a5644171)](https://br.linkedin.com/in/thuan-matheus-0a5644171)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&&logo=twitter&logoColor=1ca0f1&labelColor=FFFFFF&link=https://twitter.com/thuan_matheus)](https://twitter.com/thuan_matheus)
+ My name is Thuan Silva, native of Manaus, Amazonas - Brazil. I have a degree in Software Engineering, I work as a front-end developer and in my spare time  I learn about astronomy.
 
-Uma pessoa que gosta muito de Front-End e de compartilhar conhecimento.Sempre em busca do próximo desafio.
+<!-- 
+<div align="center">
+  <a href="https://github.com/thuansilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuansilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ -->
+##
+### Tools and technologies
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="thuan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="thuan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="thuan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="thuan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
 
-## ✨ Veja alguns dos meus projetos:
+### Contacts
+<div><br> 
+  <a href = "mailto:thuan.silva@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank" ></a>
+  <a href="https://www.linkedin.com/in/thuan-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- [🎥🦸 Fausthanos](https://github.com/thuansilva/Marvel): 🎥🦸 Tem como objetivo apresentar o React-Native na II Semana de Informatica do Instituto de Ciências Exatas e Tecnologia-UFAM
-
-
-## 🌱 Atualmente estou estudando:
-- React-Native
-- ReactJs
-- NodeJs
